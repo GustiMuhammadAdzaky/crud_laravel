@@ -1,0 +1,8 @@
+Playlist
+https://www.youtube.com/watch?v=p00Glaf8VTo&list=PLOpjxspexSIkCQNhoW8mKpQqXBgqPalxj&index=2
+
+dilaravel mending liat
+Routes di web.php untuk menampilkan view awal !
+
+Video 3 routing
+Video 4 Migrasi dan konfigyrasi database serta buat tabel pada migrasi

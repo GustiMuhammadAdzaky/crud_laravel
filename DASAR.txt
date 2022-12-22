@@ -1,0 +1,2 @@
+Belajara laravel
+1. Routes di web.php untuk menampilkan view awal !
